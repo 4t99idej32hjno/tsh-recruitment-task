@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"strict": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true
+	},
+	"exclude": ["src/**/*.spec.ts"]
+}
